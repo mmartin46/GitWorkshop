@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T19:29:09.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="4Tb3WUYpRwXlLXYwWH2e" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-14T19:32:28.723Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="5TF9lqR3ujIYsAX0NHRx" version="20.4.1" type="github">
   <diagram id="P2JkW2iTQmZUSIbnCeEx" name="Page-1">
-    <mxGraphModel dx="798" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="758" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,8 +34,8 @@
         <mxCell id="qnYkJQ-oDUxNmd9Kcons-9" value="Telemedicene" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="304.44" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qnYkJQ-oDUxNmd9Kcons-10" value="User Interface" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="410" y="185" width="100" height="30" as="geometry" />
+        <mxCell id="qnYkJQ-oDUxNmd9Kcons-10" value="Shannon App" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="185" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qnYkJQ-oDUxNmd9Kcons-11" value="MyChart&lt;br&gt;Links" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="580" y="299.44" width="70" height="40" as="geometry" />
@@ -66,6 +66,9 @@
         </mxCell>
         <mxCell id="qnYkJQ-oDUxNmd9Kcons-21" value="AWS&lt;br&gt;Database&lt;br&gt;Services" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="425" y="510" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qnYkJQ-oDUxNmd9Kcons-22" value="Menu-Driven&lt;br&gt;Interface" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="180" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
